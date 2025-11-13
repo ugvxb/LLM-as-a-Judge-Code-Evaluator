@@ -1,7 +1,5 @@
 # LLM-as-a-Judge Code Evaluator
 
-![LLM-as-a-Judge Code Evaluator](LLM-as-a-Judge%20Code%20Evaluator.png)
-
 This project implements an LLM-as-a-Judge system for evaluating student code against exercise requirements. It leverages the Ollama framework to interact with large language models, using them as "judges" to assess code based on predefined criteria such as correctness, efficiency, and readability.
 
 ## Features
@@ -90,4 +88,5 @@ This command will evaluate the `answer.py` code based on the `question.md` requi
 ## References
 
 -   **Ollama Documentation**: [https://docs.ollama.com/](https://docs.ollama.com/)
+
 
