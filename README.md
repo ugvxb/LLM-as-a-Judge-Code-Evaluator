@@ -31,7 +31,7 @@ The system operates in two main phases:
 1.  **Clone the repository**:
     ```bash
     git clone https://github.com/ugvxb/LLM-as-a-Judge-Code-Evaluator
-    cd llm-judge-evaluator
+    cd LLM-as-a-Judge-Code-Evaluator
     ```
 
 2.  **Install Python dependencies**:
@@ -90,3 +90,4 @@ This command will evaluate the `answer.py` code based on the `question.md` requi
 ## References
 
 -   **Ollama Documentation**: [https://docs.ollama.com/](https://docs.ollama.com/)
+
